@@ -8,3 +8,7 @@ The GitHub repo for her template is https://github.com/rashmiap/personal-website
 Rashmi Ap personal website is http://rashmiap.me
 
 Minor modifications to the About Page was done by me (Alfredo).
+
+Illustration on the about page (home) was done by Ashutosh Hathidara.
+Ashutosh Hathidara GitHub profile is https://github.com/ashutosh1919
+Illustration obtained by his repo at https://github.com/ashutosh1919/masterPortfolio
