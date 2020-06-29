@@ -1,17 +1,10 @@
-[**Personal Portfolio Website**](https://github.com/rashmiap/personal-website-react)
+[**Personal Portfolio Website**](https://alfredom9.github.io/)
 -
-Hello world 👋. <br/>
-This site is developed using [**Gatsby**](https://www.gatsbyjs.org/)🚀.<br/>
-Check out the site at http://rashmiap.me
+Hello there my name is Alfredo Mejia 👋. <br/>
+Check out my website at https://alfredom9.github.io/
 
-Illustration Credits - [**Prince Ali Khan**](https://github.com/princealikhan) 👑
--
-![Preview Me](src/assets/images/rashmi.svg)
+The template was created by Rashmi Ap.
+The GitHub repo for her template is https://github.com/rashmiap/personal-website-react
+Rashmi Ap personal website is http://rashmiap.me
 
-
-**Run Locally**
--
- 1.  Clone this repository and go into its src folder.
- 2.  Run  `npm install`
- 3.  Run  `gatsby develop`
- 4.  Go to  `http://localhost:8000`  to view the app 🚀
+Minor modifications to the About Page was done by me (Alfredo).
