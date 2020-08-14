@@ -176,7 +176,29 @@ class Popup extends React.Component {
                                     </div>
                                     <br/>
                                     <div className="starRating">
+                                        <div className="skillAttribute"><p>Rest API</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
                                         <div className="skillAttribute"><p>Spring</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Kafka</p></div>
                                         <div className="stars">
                                             <span className="fa fa-star checked"></span>
                                             <span className="fa fa-star checked"></span>
@@ -248,7 +270,7 @@ class Popup extends React.Component {
                                 </div>
                                 <div className="skillsSmallScreen">
                                     <h3 className="popUpSubTitle">Languages:</h3><p>C++, Java, JavaScript, Python, SQL, SQLite3, HTML, CSS</p>
-                                    <h3 className="popUpSubTitle">Frameworks/Tools:</h3><p>React, React Native, Angular, Gradle, Git, Spring</p>
+                                    <h3 className="popUpSubTitle">Frameworks/Tools:</h3><p>React, React Native, Angular, Gradle, Git, Rest API, Spring, Kafka</p>
                                     <h3 className="popUpSubTitle">Other:</h3><p>Android Studio, AndroidSDK, Firebase, Github, Linux/Unix</p>
                                     <p><b><i>Expand window to see star rating for each skill.</i></b></p>
                                 </div>
