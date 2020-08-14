@@ -63,7 +63,29 @@ class Popup extends React.Component {
                                     </div>
                                     <br className="spaceNeeded"/>
                                     <div className="starRating">
+                                        <div className="skillAttribute"><p>Python</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
                                         <div className="skillAttribute"><p>SQL</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>SQLite3</p></div>
                                         <div className="stars">
                                             <span className="fa fa-star checked"></span>
                                             <span className="fa fa-star checked"></span>
@@ -94,55 +116,78 @@ class Popup extends React.Component {
                                             <span className="fa fa-star"></span>
                                         </div>
                                     </div>
-                                    <br/>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>Python</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                            <span className="fa fa-star"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="column">
-                                    <h3 className="popUpSubTitle">Operating Systems:</h3>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>Windows</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                        </div>
-                                    </div>
-                                    <br/>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>Linux</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                    </div>
-                                    <br/>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>Unix</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                    </div>
                                 </div>
                                 <div className="column">
                                     <h3 className="popUpSubTitle">Frameworks/Tools:</h3>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>React</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>React Native</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <br className="spaceNeeded3"/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Angular</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Gradle</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Git</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Spring</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="column">
+                                    <h3 className="popUpSubTitle">Other:</h3>
                                     <div className="starRating">
                                         <div className="skillAttribute"><p>Android Studio</p></div>
                                         <div className="stars">
@@ -179,41 +224,18 @@ class Popup extends React.Component {
                                         <br/>
                                     </div>
                                     <div className="starRating">
-                                        <div className="skillAttribute"><p>React</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                        <br/>
-                                    </div>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>React Native</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                        <br/>
-                                    </div>
-                                    <br className="spaceNeeded3"/>
-                                    <div className="starRating">
-                                        <div className="skillAttribute"><p>Git</p></div>
-                                        <div className="stars">
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star checked"></span>
-                                            <span className="fa fa-star"></span>
-                                            <span className="fa fa-star"></span>
-                                        </div>
-                                        <br/>
-                                    </div>
-                                    <div className="starRating">
                                         <div className="skillAttribute"><p>Github</p></div>
+                                        <div className="stars">
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star checked"></span>
+                                            <span className="fa fa-star"></span>
+                                            <span className="fa fa-star"></span>
+                                        </div>
+                                        <br/>
+                                    </div>
+                                    <div className="starRating">
+                                        <div className="skillAttribute"><p>Linux/Unix</p></div>
                                         <div className="stars">
                                             <span className="fa fa-star checked"></span>
                                             <span className="fa fa-star checked"></span>
@@ -225,9 +247,9 @@ class Popup extends React.Component {
                                     </div>
                                 </div>
                                 <div className="skillsSmallScreen">
-                                    <h3 className="popUpSubTitle">Languages:</h3><p>C++, Java, JavaScript, SQL, HTML, CSS, Python</p>
-                                    <h3 className="popUpSubTitle">Operating Systems:</h3><p>Windows, Linux, Unix</p>
-                                    <h3 className="popUpSubTitle">Frameworks/Tools:</h3><p>Android Studio, AndroidSDK, Firebase, React, React Native, Git, Github</p>
+                                    <h3 className="popUpSubTitle">Languages:</h3><p>C++, Java, JavaScript, Python, SQL, SQLite3, HTML, CSS</p>
+                                    <h3 className="popUpSubTitle">Frameworks/Tools:</h3><p>React, React Native, Angular, Gradle, Git, Spring</p>
+                                    <h3 className="popUpSubTitle">Other:</h3><p>Android Studio, AndroidSDK, Firebase, Github, Linux/Unix</p>
                                     <p><b><i>Expand window to see star rating for each skill.</i></b></p>
                                 </div>
                             </div>) : null}
